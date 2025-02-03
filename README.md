@@ -8,6 +8,7 @@
   - Symfony
   - Laravel
   - Django
+    - [django-htmx-tutorial](https://github.com/ignacekarkasy/django-htmx-tutorial)
 - 💞️ I’m looking to collaborate on ...
   - Translation
 - ⚡ Fun fact: ...
