@@ -13,7 +13,4 @@
   - Translation
 - ⚡ Fun fact: ...
   - a single bite of a horse can kill a bee.
-<!---
-ignacekarkasy/ignacekarkasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - [PHP and emojis](https://3v4l.org/Ol4bG)
